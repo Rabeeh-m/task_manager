@@ -1,4 +1,4 @@
-# Task Management Application
+# Task Manager
 
 This is a full-stack Task Management Application built with a **Django REST Framework** backend and a **React** frontend. The application supports user authentication, role-based access control (SuperAdmin, Admin, User), task management, and task completion reports. Users can view and mark tasks as completed, while Admins and SuperAdmins can manage tasks and users through an Admin panel.
 
